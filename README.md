@@ -1,0 +1,1 @@
+Small Python library proposed for computer vision.
